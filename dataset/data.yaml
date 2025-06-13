@@ -1,0 +1,12 @@
+names:
+- Vehicle
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: vehicle_detection_yolov8
+  url: https://universe.roboflow.com/farzad/vehicle_detection_yolov8/dataset/3
+  version: 3
+  workspace: farzad
+test: ../test/images
+train: ../train/images
+val: ../valid/images

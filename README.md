@@ -56,6 +56,8 @@ To maintain high performance under fog, rain, and snow:
 - **Analytical Augmentation**: Depth-based weather simulation
 - **Neural Style Transfer**: Stylistic weather transformations
 
+![Traffic Analysis](assets/weather.png)
+
 > Result: Improved generalization under challenging environmental conditions
 
 ---
@@ -88,6 +90,8 @@ To maintain high performance under fog, rain, and snow:
 - Frame-to-frame pixel displacement analysis
 - Supports relative speed calculation with multi-object tracking
 - Highlights need for accurate camera calibration for real-world units
+
+![Traffic Analysis](assets/speed.png)
 
 ---
 

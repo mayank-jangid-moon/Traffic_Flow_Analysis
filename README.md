@@ -6,6 +6,7 @@ A robust, intelligent traffic monitoring system built to detect, track, and anal
 **Mayank Jangid**, **Kushal Khemka**, **Abhinav Rajput**
 
 ---
+![output_processed-ezgif com-video-to-gif-converter-6](https://github.com/user-attachments/assets/e397dbbb-2200-4c77-902a-c390b13839ad)
 
 ## Project Overview
 

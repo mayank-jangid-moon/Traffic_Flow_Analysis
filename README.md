@@ -2,12 +2,14 @@
 
 A robust, intelligent traffic monitoring system built to detect, track, and analyze vehicle movement in diverse conditions using advanced computer vision and transformer-based AI models.
 
+
+![Demo](assets/output_processed-ezgif.com-video-to-gif-converter-6.gif)
+
+
 ### Team Members:
 **Mayank Jangid**, **Kushal Khemka**, **Abhinav Rajput**
 
 ---
-![Demo](assets/output_processed-ezgif.com-video-to-gif-converter-6.gif)
-
 ## Project Overview
 
 This system is designed to go beyond basic vehicle detection — offering:

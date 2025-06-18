@@ -3,7 +3,8 @@
 A robust, intelligent traffic monitoring system built to detect, track, and analyze vehicle movement in diverse conditions using advanced computer vision and transformer-based AI models.
 
 
-![Demo](assets/output_processed-ezgif.com-video-to-gif-converter-6.gif)
+![Traffic Analysis](assets/main.png)
+
 
 
 ### Team Members:
@@ -76,6 +77,9 @@ To maintain high performance under fog, rain, and snow:
 - YOLO-based plate detection
 - OCR for character extraction
 - Works under varying lighting, angles, and plate formats
+
+![Traffic Analysis](assets/anpr.png)
+
 
 ---
 
